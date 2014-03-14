@@ -1,0 +1,10 @@
+7100a2e3d248b5f3937d3b0c8a329619 *DESCRIPTION
+164e4f18a95e5a0713818b42eb5b08d5 *NAMESPACE
+1f98d3145f8e082e39f9aa875eba0b76 *R/ykmeans.R
+7bde16aac05991760c831b6e3d7f2681 *README.md
+150754602b41af88f496184198ad21bb *data/actData.RData
+d7e68dea87d9f207a04a54f23d11c0ef *man/actData.Rd
+2cd2163464fe565a27b7def221bf9cd6 *man/kmeansN.Rd
+af00dba4595a1b3a77594dd769b53360 *man/kmeansN2.Rd
+e7b7c9511aa9a1f61769341d29dc4f6e *man/ykmeans-package.Rd
+c6e21e398017a45eedc2200acca50b83 *man/ykmeans.Rd
